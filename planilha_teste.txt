@@ -1,0 +1,6 @@
+Item | Situação | Observação
+Documentação | Não | Falta comentários
+Nomenclatura | Parcial | Algumas boas, outras não
+Legibilidade | Parcial | Pode melhorar
+NullPointer | Não | Riscos presentes
+Fechamento conexões | Não | Nenhum fechado
